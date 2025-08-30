@@ -1,7 +1,7 @@
 ## Hi guys 👋
 Im this guy and I do stuff...
 
-I made [Guython](https://github.com/this-guy-git/Guython), which is a programming language made in and inspired by Python!
+I made [Lumen](https://github.com/this-guy-git/Lumen), a lightweight, fast, programming language designed for beginners.
 
 I also have worked on [MyTube](https://mytube.f87.site), an alternative to YouTube.
 
