@@ -3,7 +3,7 @@ Im this guy and I do stuff...
 
 I made [Lumen](https://github.com/this-guy-git/Lumen), a lightweight, fast, programming language designed for beginners.
 
-I also have worked on [MyTube](https://mytube.f87.site), an alternative to YouTube.
+I also have worked on [MyTube](https://thisguylabs.com/MyTube), an alternative to YouTube.
 
 # My Stuff
 ## OSes:
