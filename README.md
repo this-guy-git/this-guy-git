@@ -76,7 +76,7 @@ I also have worked on [MyTube](https://thisguylabs.com/MyTube), an alternative t
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-<!--# Stats
+# Stats
 ![guy's GitHub stats](https://github-readme-stats.vercel.app/api?username=this-guy-git&show_icons=true&theme=dark#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this-guy-git&langs_count=20&layout=compact&theme=dark#gh-dark-mode-only)
--->
+
